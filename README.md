@@ -4,9 +4,9 @@
 
 ### Enterprise-grade POS built natively for Windows desktop with WinUI 3
 
-[![WinUI 3](https://img.shields.io/badge/WinUI%203-Windows%20App%20SDK-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)](https://learn.microsoft.com/windows/apps/winui/winui3/)
-[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0078D4?style=for-the-badge)](#)
-[![Status](https://img.shields.io/badge/Status-In%20Development-orange?style=for-the-badge)](#-status)
+[![WinUI 3](https://img.shields.io/badge/WinUI%203-Windows%20App%20SDK-0a0a0a?style=for-the-badge&logo=dotnet&logoColor=fafafa)](https://learn.microsoft.com/windows/apps/winui/winui3/)
+[![Platform](https://img.shields.io/badge/Platform-Windows%2010%2F11-0a0a0a?style=for-the-badge)](#)
+[![Status](https://img.shields.io/badge/Status-In%20Development-0a0a0a?style=for-the-badge)](#-status)
 
 </div>
 
@@ -41,9 +41,9 @@ CPOS is **under active development**. Source code and release builds will be pub
 
 **Muhammad Bilal** — IT Specialist & App Developer · Gujrat, Pakistan
 
-[![GitHub](https://img.shields.io/badge/GitHub-smuhammadbilalh-181717?style=for-the-badge&logo=github)](https://github.com/smuhammadbilalh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadbilaltech-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/muhammadbilaltech)
-[![Email](https://img.shields.io/badge/Email-smuhammadbilalh%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smuhammadbilalh@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-smuhammadbilalh-0a0a0a?style=for-the-badge&logo=github)](https://github.com/smuhammadbilalh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-muhammadbilaltech-0a0a0a?style=for-the-badge)](https://www.linkedin.com/in/muhammadbilaltech)
+[![Email](https://img.shields.io/badge/Email-smuhammadbilalh%40gmail.com-0a0a0a?style=for-the-badge&logo=gmail&logoColor=fafafa)](mailto:smuhammadbilalh@gmail.com)
 
 ⭐ If this project helped you, please consider giving it a star!
 
